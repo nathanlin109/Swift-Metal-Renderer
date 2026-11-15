@@ -6,7 +6,9 @@ A real-time 3D renderer written in Swift and Metal, running on iOS and macOS
 Built as a learning project to understand how modern rendering engines are put
 together.
 
-<!-- TODO: add gif -->
+
+https://github.com/user-attachments/assets/3df2350e-1d78-4a95-b3d7-71012b3343f5
+
 
 ## What it does
 
